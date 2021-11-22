@@ -14,7 +14,7 @@ body{
 .hero-banner{
     /* The image used */
     
-    background-image: url("https://hydr-iq.github.io/HYDR-Portfolio/blob/main/docs/HYDR-pic4.PNG");
+    background-image: url("/blob/main/docs/HYDR-pic4.PNG");
     min-height: 540px;
     opacity: 99%;
       
