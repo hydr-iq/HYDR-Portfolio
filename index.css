@@ -17,6 +17,7 @@ body{
     background-image: url("https://github.com/hydr-iq/HYDR-Portfolio/blob/main/docs/HYDR-pic4.PNG");
     min-height: 540px;
     opacity: 99%;
+    z-index: 999;
       
     /* Center and scale the image nicely */
     background-position: center;
