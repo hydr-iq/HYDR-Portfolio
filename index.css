@@ -43,7 +43,8 @@ body{
   
 .logo{
     margin-left: 3.5em;
-    width= 200px;
+    width: 200px;
+    z-index: 999
 }  
 
   /* The navbar */
